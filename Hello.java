@@ -6,5 +6,6 @@ public class Hello{
         MathGenerator mg = new MathGenerator();
         int result = mg.add(3,4);
         System.out.println(result);
+        System.out.println(4-3);
     }
 }
